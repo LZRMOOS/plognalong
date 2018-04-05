@@ -11,7 +11,7 @@ email: weidvi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A Day in the Life through a Fisheye.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.lzrmoos.github.io" # the base hostname & protocol for your site
+url: "https://lzrmoos.github.io" # the base hostname & protocol for your site
 github_username:  lzrmoos
 
 sass:
@@ -24,10 +24,10 @@ collections:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://www.github.com/lzrmoos
+github_url: https://github.com/lzrmoos
 googleplus_url: 
-instagram_url: https://www.instagram.com/weidvi/
-linkedin_url: https://www.linkedin.com/in/weidvi/
+instagram_url: https://instagram.com/weidvi/
+linkedin_url: https://linkedin.com/in/weidvi/
 pinterest_url:
 slack_url:
 twitter_url: 
