@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: therealweidai
+email: weidvi@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A Day in the Life through a Fisheye.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.therealweidai.github.io" # the base hostname & protocol for your site
+github_username:  therealweidai
+
+sass:
+  sass_dir: _sass
+
+# Collection settings
+collections:
+  photos:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://www.github.com/therealweidai
+googleplus_url: 
+instagram_url: https://www.instagram.com/weidvi/
+linkedin_url: https://www.linkedin.com/in/weidvi/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+
+# Build settings
+markdown: kramdown
