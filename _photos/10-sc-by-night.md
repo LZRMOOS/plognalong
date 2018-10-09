@@ -1,6 +1,6 @@
 ---
 title: Santa Cruz Island at Night
-image: https://farm5.staticflickr.com/4481/37699401736_e07e8d4fb7_o.jpg
-thumbnail: https://farm5.staticflickr.com/4481/37699401736_a09540b8c4_n.jpg
+image: https://farm5.staticflickr.com/4503/37489584300_42a8dc811e_o.jpg
+thumbnail: https://farm5.staticflickr.com/4503/37489584300_7eec888a05_n.jpg
 caption: Warm Santa Ana Breeze
 ---
