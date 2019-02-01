@@ -25,12 +25,12 @@ collections:
 500px_url:
 facebook_url:
 github_url: https://github.com/lzrmoos
-googleplus_url: 
+googleplus_url:
 instagram_url: https://instagram.com/weidvi/
 linkedin_url: https://linkedin.com/in/weidvi/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # Build settings
 markdown: kramdown
