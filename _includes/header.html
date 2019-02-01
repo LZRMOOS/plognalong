@@ -3,6 +3,18 @@
   <h1>{{ site.title }}</h1>
   <p>{{ site.description }}</p>
   <ul class="icons">
+    {% if site.about_url %}
+    <li><a href="{{ site.about_url }}" class="icon fa-info"><span class="label">About</span></a></li>
+    {% endif %}
+    {% if site.blog_url %}
+    <li><a href="{{ site.blog_url }}" class="icon fa-code"><span class="label">Posts</span></a></li>
+    {% endif %}
+    {% if site.spotify_url %}
+    <li><a href="{{ site.spotify_url }}" class="icon fa-spotify" target="_blank"><span class="label">Spotify</span></a></li>
+    {% endif %}
+    {% if site.youtube_url %}
+    <li><a href="{{ site.youtube_url }}" class="icon fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+    {% endif %}
     {% if site.twitter_url %}
     <li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
     {% endif %}

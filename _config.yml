@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Just Plog'n
+title: Just Plog'n Along
 email: me@lzrmoos.com
 description: > # this means to ignore newlines until "baseurl:"
   From a Fisheye Perspective
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lzrmoos.github.io" # the base hostname & protocol for your site
-github_username:  lzrmoos
+github_username: lzrmoos
 
 sass:
   sass_dir: _sass
@@ -21,7 +21,13 @@ sass:
 collections:
   photos:
 
+# Pages
+blog_url: /posts
+about_url: /about
+
 # Social settings
+spotify_url: https://open.spotify.com/user/zantif
+youtube_url: https://youtube.com/c/dviii
 500px_url:
 facebook_url:
 github_url: https://github.com/lzrmoos
