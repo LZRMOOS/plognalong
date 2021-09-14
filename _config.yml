@@ -22,11 +22,11 @@ collections:
   photos:
 
 # Pages
-blog_url: /posts
-about_url: /about
+# blog_url: /posts
+# about_url: /about
 
 # Social settings
-spotify_url: https://open.spotify.com/user/zantif
+# spotify_url: https://open.spotify.com/user/zantif
 youtube_url: https://youtube.com/c/dviii
 500px_url:
 facebook_url:
