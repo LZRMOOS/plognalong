@@ -1,5 +1,8 @@
 ---
 title: Neuschwanstein Castle
-image: https://farm5.staticflickr.com/4293/36106317015_0e6c560f26_k.jpg
-thumbnail: https://farm5.staticflickr.com/4293/36106317015_688d213ebb_n.jpg
----
+# Large 2048 x 1365
+image: https://live.staticflickr.com/65535/51474740857_0761ca7226_k.jpg
+# Small 320 x 213
+thumbnail: https://live.staticflickr.com/65535/51474740857_1c4e18db6e_n.jpg 
+
+--- 
